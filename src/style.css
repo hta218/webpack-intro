@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 're-script';
+    src: url('./RemachineScript_Personal_Use.ttf');
+}
+
+.hello {
+    color: lightblue;
+    font-family: 're-script';
+    background: url('./ig-icon.png');
+}
